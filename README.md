@@ -66,11 +66,6 @@ Responsável pela leitura RFID, envio do UID, processamento e execução das aç
 - 🔊 Speaker  
 - 🔋 Fonte 5V + Step-Down
 
-## 🔹 **Firmware**
-- C/C++  
-- SPI, UART, Wi-Fi  
-- Bibliotecas ESP32
-
 ## 🔹 **Backend**
 - NodeJS  
 - Express  
