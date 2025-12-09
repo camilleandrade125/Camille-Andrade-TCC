@@ -8,6 +8,9 @@ Este repositório centraliza todos os artefatos para facilitar a avaliação, ma
 ---
 
 # 📁 Estrutura do Repositório
+│
+├── links/ # Arquivos contendo os links dos repositórios externos
+├── esp32/ # Código completo do firmware
 
 ---
 
