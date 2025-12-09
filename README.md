@@ -2,7 +2,7 @@
 # 📡 SENSEWAY:SISTEMA DE ORIENTAÇÃO INDOOR COM LUVA RFID E APLICAÇÃO WEB PARA PESSOAS COM DEFICIÊNCIA VISUAL  
 ### 👩‍🎓 Autora: Camille Andrade  
 
-Repositório principal que organiza **todo o projeto do TCC**, incluindo firmware (ESP32), backend (API), frontend, diagramas e documentação.  
+Repositório principal que organiza **todo o projeto do TCC**, incluindo firmware (ESP32), backend (API),e frontend.  
 Este repositório centraliza todos os artefatos para facilitar a avaliação, manutenção e reprodução da solução.
 
 ---
